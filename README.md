@@ -7,3 +7,6 @@ Projects:
 + [ArcGIS Online Organization Administration](https://github.com/shmandanas/Fellowship-Projects/blob/main/AGOL%20account%20admin.ipynb)
 + [Spoonbill Tracking Data Ingestion](https://github.com/shmandanas/Fellowship-Projects/blob/main/Spoonbill%20Tracking%20Data%20Ingestion.py)
 + Eaglewatch Recurring Table Updates
+
+*[Learn more about these projects](https://storymaps.com/stories/4fd10570c0e24e9cba69324574f6979c)*
+*[Learn more about Sarah](https://www.linkedin.com/in/sarah-mandanas-61822313a/)*
